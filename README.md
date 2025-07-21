@@ -6,6 +6,12 @@ This project aims to develop a **Convolutional Neural Network (CNN)** model that
 
 ## Dataset
 
+The dataset used in this project is the **Drowsiness Detection Dataset** from Kaggle, which contains images of students' eye states (open and closed) for attentiveness detection.
+
+You can download the dataset from Kaggle using the following link:
+
+- [Drowsiness Detection Dataset on Kaggle](https://www.kaggle.com/datasets/prasadvpatil/mrl-dataset/data)
+
 The dataset consists of two main categories of images:
 - **Open Eyes**
 - **Closed Eyes**
