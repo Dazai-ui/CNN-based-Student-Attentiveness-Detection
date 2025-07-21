@@ -72,4 +72,4 @@ An estimation of the **Floating Point Operations (FLOPs)** for the model is done
 
 ## Files in the Repository
 
-- **Cnn-based-student-attentiveness-detection.ipynb**: The main Jupyter notebook containing the entire pipeline, from data loading and augmentation to model training and evaluation.
+- **Cnn-based-student-attentiveness-detection.ipynb**: The main notebook (suitable for Jupyter, Google Colab, Kaggle etc) containing the entire pipeline, from data loading and augmentation to model training and evaluation.
