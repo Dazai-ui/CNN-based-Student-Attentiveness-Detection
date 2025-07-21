@@ -73,23 +73,3 @@ An estimation of the **Floating Point Operations (FLOPs)** for the model is done
 ## Files in the Repository
 
 - **Cnn-based-student-attentiveness-detection.ipynb**: The main Jupyter notebook containing the entire pipeline, from data loading and augmentation to model training and evaluation.
-- **bestClassifier.keras**: The best trained model saved during training based on the validation loss.
-
-## How to Run
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Kwsk127/CNN-based-Student-Attentiveness-Detection.git
-   
-2. Install the required dependencies:
-    ```bash
-   pip install tensorflow matplotlib scikit-learn seaborn tqdm Pillow
-    
-3. Open the Jupyter notebook:
-   ```bash
-   jupyter notebook Cnn-based-student-attentiveness-detection.ipynb
-
-4. Follow the steps in the notebook to train the model and evaluate its performance.
-
-
