@@ -85,11 +85,12 @@ Estimated **Floating Point Operations (FLOPs)** for computational complexity.
 - **Cnn-based-student-attentiveness-detection.ipynb**: Full pipeline from data loading and augmentation to model training and evaluation.
 
 ---
-
 ## License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for full details.  
+This project is **protected** and all rights are reserved by the author. See the `LICENSE` file for full details.  
 
-- You may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software.  
-- The software is provided “as is”, without warranty of any kind.  
+- You may view, study, or use this project for **personal or academic purposes only**.  
+- You may **NOT** redistribute, publish, sell, or sublicense this software or its contents without explicit permission from the author.  
+- The software is provided “as is”, without any warranty of any kind.
+
 
